@@ -1,5 +1,8 @@
 # reddit-icp-monitor
 
+<img width="1280" height="640" alt="reddit-icp-monitor" src="https://github.com/user-attachments/assets/8182b73f-1f8d-4812-9061-165fd8aeb0e8" />
+
+
 Watch subreddits for people describing the exact problem you solve. Score each post for ICP relevance. Draft a helpful, non-spammy reply for every high-signal match.
 
 ## What It Does
